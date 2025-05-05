@@ -35,3 +35,6 @@ tmux
 
 ## Open Browser
 http://localhost:8000/
+
+<img width="1242" alt="Screenshot 2025-05-06 at 00 03 34 1" src="https://github.com/user-attachments/assets/861fbc47-31d2-49e4-9765-e302ed862662" />
+

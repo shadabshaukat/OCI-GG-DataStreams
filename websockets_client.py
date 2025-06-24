@@ -11,7 +11,7 @@ password = "abcdABCD1234##"
 host = "ogg-t1"
 port = 9102
 stream_name = "DS"
-begin_position = "earliest"  # Options: "earliest" or "latest"
+begin_position = "now"  # Options: "earliest" or "now". Ref : https://docs.oracle.com/en-us/iaas/goldengate/doc/add-data-streams.html
 ca_cert_path = "/tmp/ogg-t1.pem"  # Path to your custom certificate
 
 # === URI CONSTRUCTION ===
